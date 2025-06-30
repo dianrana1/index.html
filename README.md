@@ -1,6 +1,5 @@
 # Dokumentasi Lapangan IKN oleh Dian Rana
 
-![Masjid Negara IKN](Screenshot 2025-06-30 085213.png)
 Selamat datang di dokumentasi publik seputar perkembangan Ibu Kota Nusantara (IKN).  
 Repositori ini merupakan tempat berbagi catatan lapangan, observasi visual, serta dokumentasi udara yang dilakukan secara independen oleh **Dian Rana**, konten kreator asal Kalimantan Timur.
 
