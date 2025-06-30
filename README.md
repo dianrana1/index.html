@@ -25,5 +25,11 @@ Untuk kolaborasi, dokumentasi, atau permintaan data, silakan hubungi melalui pla
 - YouTube: [@dian-rana](https://youtube.com/@dian-rana)  
 - Instagram: [@dianrana.id](https://instagram.com/dianrana.id)
 
----
+# Dokumentasi Visual IKN
+
+Berikut adalah dokumentasi udara dari Masjid Negara IKN:
+
+![Masjid Negara IKN](https://github.com/dianrana1/index.html/raw/main/Screenshot%202025-06-30%20085213.png)
+
+
 
