@@ -17,7 +17,7 @@ Baca laporan lengkap dan catatan personal di blog resmi:
 👉 [Catatan Akhir Bulan dari IKN: Masjid Negara, Basilika, dan IPAL](https://www.dianrana.id/2025/06/catatan-akhir-bulan-dari-ikn-masjid.html)
 
 Kunjungi juga situs utama untuk dokumentasi lengkap:  
-🔗 https://www.dianrana.id
+🔗 [Kunjungi website saya](https://www.dianrana.id)
 
 ## 📬 Kontak & Kolaborasi
 Untuk kolaborasi, dokumentasi, atau permintaan data, silakan hubungi melalui platform resmi:  
