@@ -1,4 +1,5 @@
 # Dokumentasi Lapangan IKN oleh Dian Rana
+📅 Update per: Juni 2025
 
 Selamat datang di dokumentasi publik seputar perkembangan Ibu Kota Nusantara (IKN).  
 Repositori ini merupakan tempat berbagi catatan lapangan, observasi visual, serta dokumentasi udara yang dilakukan secara independen oleh **Dian Rana**, konten kreator asal Kalimantan Timur.
@@ -24,11 +25,12 @@ Untuk kolaborasi, dokumentasi, atau permintaan data, silakan hubungi melalui pla
 - YouTube: [@dian-rana](https://youtube.com/@dian-rana)  
 - Instagram: [@dianrana.id](https://instagram.com/dianrana.id)
 
-# Dokumentasi Visual IKN
+## Dokumentasi Visual IKN
 
 Berikut adalah dokumentasi udara dari Masjid Negara IKN:
 
-![Masjid Negara IKN](https://github.com/dianrana1/index.html/raw/main/Screenshot%202025-06-30%20085213.png)
+![Foto udara Masjid Negara IKN - dokumentasi Dian Rana](https://github.com/dianrana1/index.html/raw/main/Screenshot%202025-06-30%20085213.png)
+
 
 
 
